@@ -17,3 +17,5 @@ Imports:
     testthat,
     usethis
 Config/testthat/edition: 3
+URL: https://github.com/brendan-winters/ohwhaley
+BugReports: https://github.com/brendan-winters/ohwhaley/issues
